@@ -13,8 +13,10 @@
 #include "Invoice.h"
 #include "Room.h"
 #include "HostelManager.h"
-
+#include "Student.h"
+#include "Faculty.h"
 using namespace std; 
+
 class Person {
 protected:
     string name;
